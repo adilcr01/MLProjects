@@ -4,7 +4,7 @@ import re
 from nltk.stem import PorterStemmer
 import pickle
 import nltk
-nltk.download('popular')
+nltk.downloader popular
 
 ps = PorterStemmer()
 

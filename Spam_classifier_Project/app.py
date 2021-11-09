@@ -1,4 +1,3 @@
-import nltk
 from flask import Flask, request ,render_template
 from nltk.corpus import stopwords
 import re

@@ -1,1 +1,2 @@
-nltk.download('all')
+punkt
+porter_test

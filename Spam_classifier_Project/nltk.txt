@@ -1,10 +1,2 @@
 stopwords
-wordnet
-pros_cons
-reuters
-universal_tagset
 punkt
-snowball_data
-rslp
-porter_test
-vader_lexicon

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<style>
+body{
+
+	background-color: grey;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.form {
+  text-align: center;
+ 
+ 
+} 
+.button{
+	text-decoration-color: whitesmoke;
+	background-color: white;
+	
+}
+.text{
+    width:400px;
+
+}
+
+</style>
+	<title>Spam Classifier</title>
+</head>
+<body>
+	<h1>Spam Classifer</h1>
+<div class="form">
+    <form action="/predict" method="POST">  
+    Input your E-mail/SMS:  
+    <input type="text" name="input_sms" class="text" placeholder="Enter your E-mail/SMS">
+	<button class="button">Predict</button>
+    </form>  
+</div>
+
+</body>
+</html>
+
+
+

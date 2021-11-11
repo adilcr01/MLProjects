@@ -1,10 +1,10 @@
 import nltk
 from flask import Flask, request ,render_template
 import re
-from nltk.stem import PorterStemmer
 import pickle
 nltk.download("stopwords")
 from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
 
 ps = PorterStemmer()
 

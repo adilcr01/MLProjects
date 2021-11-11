@@ -1,2 +1,5 @@
 stopwords
+wordnet
 punkt
+snowball_data
+porter_test

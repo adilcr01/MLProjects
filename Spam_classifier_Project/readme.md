@@ -2,6 +2,34 @@
 ## Spam Classifier
 This repository consists of files required for end to end implementation and deployment of Machine Learning Spam Classifier web application created with Flask and deployed on the Heroku platform.
 
+## CountVectorizer:
+
+The CountVectorizer provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, but also to encode new documents using that vocabulary.
+
+## TF-IDF Vectorizer
+Tf-idf is a method which gives us a numerical weightage of words which reflects how important the particular word is to a document in a corpus. A corpus is a collection of documents. Tf is Term frequency, and IDF is Inverse document frequency. This method is often used for information retrieval and text mining.
+
+#### Term Frequency:
+
+Term frequency is defined as the number of times a word (i) appears in a document (j) divided by the total number of words in the document.
+inverse document frequecy | Bag-of-words vs TFIDF vectorization
+
+![image](https://user-images.githubusercontent.com/93968656/141609082-c3dd68c0-5860-422d-a602-149d816cef66.png)
+
+
+#### Inverse Document Frequency:
+
+Inverse document frequency refers to the log of the total number of documents divided by the number of documents that contain the word. The logarithm is added to dampen the importance of a very high value of IDF.
+log of idf
+
+![image](https://user-images.githubusercontent.com/93968656/141609074-128b69bc-3e78-4b5c-b1e1-d57605c54350.png)
+
+
+TFIDF is computed by multiplying the term frequency with the inverse document frequency.
+Tfidf | Bag-of-words vs TFIDF vectorization
+
+![image](https://user-images.githubusercontent.com/93968656/141609069-1054a80d-1c3b-4514-9bf5-f1c7a1165eb4.png)
+
 ## Project Explanation
 The Spam Classifier is a Flask web application which predicts if a message E-mail/SMS is a spam message or not. The dataset is available at Kaggle, and it's provided by UCI Machine Learning.
 

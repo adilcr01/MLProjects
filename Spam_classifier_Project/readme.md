@@ -9,14 +9,17 @@ The Spam Classifier is a Flask web application which predicts if a message E-mai
 Spam Classifier Dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Screenshot
-##### Homepage
-![car price 1](https://user-images.githubusercontent.com/93968656/141478923-32d3b5bf-c4b7-406c-8d6e-c157596fd182.png)
+#### Home page 
+![flask spam 1](https://user-images.githubusercontent.com/93968656/141608414-b5baec35-ae9c-4b21-a2ff-9ab8d51e6bb0.png)
 
-![car price 3](https://user-images.githubusercontent.com/93968656/141479100-97b35e75-a47a-44fc-91dc-334835bf2796.png)
+##### Spam Message
+![flask spam 1](https://user-images.githubusercontent.com/93968656/141608440-b94777b6-0983-42ce-b6d5-0c3f360101a8.png)
+![flask spam 2](https://user-images.githubusercontent.com/93968656/141608448-67327b3c-068b-43ed-a863-286e3158df19.png)
 
-##### Results
+##### Ham Message (not spam)
 
-![car price 2](https://user-images.githubusercontent.com/93968656/141478949-9858a012-4c5e-4873-986a-099d07000c53.png)
+![flask ham 1](https://user-images.githubusercontent.com/93968656/141608456-e7acc362-16b0-4096-b25a-3e69ee861646.png)
+![flask ham 2](https://user-images.githubusercontent.com/93968656/141608464-81c27124-1ed5-450b-91a2-3303f2807c63.png)
 
 ## Technologies Used
 

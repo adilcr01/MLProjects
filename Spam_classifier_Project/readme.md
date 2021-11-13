@@ -38,4 +38,12 @@ Spam Classifier Dataset https://www.kaggle.com/mdejazulhassan/vehicle-dataset-fr
 
 
 ## Link to the application
-Check out the live demo: https://car-price-flaskapp.herokuapp.com/
+Check out the live demo: https://spam-classifier-flaskapp.herokuapp.com/
+
+### Note:
+#### On clicking the app link you might land on the page that shows
+![internal error](https://user-images.githubusercontent.com/93968656/141607689-dcb16a81-b01f-4174-b9ce-27c9b0842521.png)
+
+#### This problem is taken in consideration and we are working to fix this
+#### sorry for the inconvenience
+

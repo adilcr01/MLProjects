@@ -10,7 +10,8 @@ Spam Classifier Dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Screenshot
 #### Home page 
-![flask spam 1](https://user-images.githubusercontent.com/93968656/141608414-b5baec35-ae9c-4b21-a2ff-9ab8d51e6bb0.png)
+![home page](https://user-images.githubusercontent.com/93968656/141608503-3f5ee35f-63cb-4532-9e41-b8a597feb8a3.png)
+
 
 ##### Spam Message
 ![flask spam 1](https://user-images.githubusercontent.com/93968656/141608440-b94777b6-0983-42ce-b6d5-0c3f360101a8.png)

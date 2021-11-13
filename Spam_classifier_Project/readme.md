@@ -3,10 +3,10 @@
 This repository consists of files required for end to end implementation and deployment of Machine Learning Spam Classifier web application created with Flask and deployed on the Heroku platform.
 
 ## Project Explanation
-The Spam Classifier is a Flask web application which predicts if a message E-mail/SMS is a spam message or not. The dataset is available at Kaggle.
+The Spam Classifier is a Flask web application which predicts if a message E-mail/SMS is a spam message or not. The dataset is available at Kaggle, and it's provided by UCI Machine Learning.
 
-## Dataset used
-Spam Classifier Dataset https://www.kaggle.com/mdejazulhassan/vehicle-dataset-from-cardekho/data
+## Dataset link
+Spam Classifier Dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Screenshot
 ##### Homepage

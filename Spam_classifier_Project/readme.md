@@ -53,7 +53,8 @@ Spam Classifier Dataset https://www.kaggle.com/uciml/sms-spam-collection-dataset
 ## Technologies Used
 
 ![Flask and python](https://user-images.githubusercontent.com/93968656/141474681-ea61de53-c27e-4818-b0a8-379371f84da0.png)
-![image](https://user-images.githubusercontent.com/93968656/141649754-09a61edb-b83b-49e2-94c7-8c0e225ab608.png)
+![image](https://user-images.githubusercontent.com/93968656/141649883-b4a3b95a-1687-4eec-a94b-3350a2fc501b.png)
+
 
 
 ## Deployement on Heroku
